@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Lea" package="com.caribou.lea" version="0.0.1" company="cariboucompany" />
+	<app file="Lea" main="Main" path="Export" />
+	<!-- <window width="0" height="0" background="#9c3848" fullscreen="false" resizable="false" /> -->
+	<window width="0" height="0" background="#9c3848" fullscreen="false" resizable="false" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	
+	<assets path="Assets" rename="assets" />
+	
+</project>
